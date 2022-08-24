@@ -1,9 +1,6 @@
-github.com/go-webdl/bits v0.0.0-20211211000000-287c1fdc6155 h1:Us7H7ZTJ3ArY+tsdWYa2kUn5WYHF+iw1fPOQE5TSXQk=
 github.com/go-webdl/bits v0.0.0-20211211000000-287c1fdc6155/go.mod h1:NANrHsqYBU0z7EL1NKzfSjgtDknXPwBUxtsNZJxyWds=
 github.com/go-webdl/bits v0.0.0-20220301000000-d7a7b0606f3c h1:cNgByWDN9d6YyKkaMwz4ueMJdobEbKSwZDqM5jStRvc=
 github.com/go-webdl/bits v0.0.0-20220301000000-d7a7b0606f3c/go.mod h1:OzQBJxBDTFzjuZl/IXre3R4F5jiY3nGuf50QnxCTKjA=
-github.com/go-webdl/media-codec v0.0.0-20211211000000-5ec4ee1754ab h1:sNKXn41J+XWUzFucLDdLd/58AciYwmarwEk39EE6b4s=
-github.com/go-webdl/media-codec v0.0.0-20211211000000-5ec4ee1754ab/go.mod h1:72J4NVJBtCS1mM7qomJ85XqUga26scgySuBwTBSfdPc=
 github.com/go-webdl/media-codec v0.0.0-20211212000000-66f7d04d71d9 h1:qc7bfivgGsdRnCeLdEFlllt8t2RBss4cK7gk9SCrYcM=
 github.com/go-webdl/media-codec v0.0.0-20211212000000-66f7d04d71d9/go.mod h1:72J4NVJBtCS1mM7qomJ85XqUga26scgySuBwTBSfdPc=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
